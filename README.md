@@ -1,6 +1,10 @@
 # SmartScheduler
 
 Smart Scheduler – AI-Powered Task Planner
+
+![image](https://github.com/user-attachments/assets/b4ccd0c5-5dea-430a-aba5-78ddc5937c67)
+
+
 📌 Overview
 Smart Scheduler is an AI-powered scheduling application that helps users efficiently plan their daily tasks. Users can add tasks, specify the duration and priority, and the system will automatically generate an optimized schedule using Mistral AI.
 
