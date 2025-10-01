@@ -9,7 +9,7 @@ Smart Scheduler – AI-Powered Task Planner
 Smart Scheduler is an AI-powered scheduling application that helps users efficiently plan their daily tasks. Users can add tasks, specify the duration and priority, and the system will automatically generate an optimized schedule using Mistral AI.
 
 ✅ Key Features:
-✔️ Task Management: Add, edit, and delete tasks dynamically.
+✔️ Task Management: Add, edit, and delete tasks dynamically.\n
 ✔️ AI Scheduling: Uses Mistral API to optimize task scheduling.
 ✔️ User Preferences (Upcoming): Set start & end time for working hours.
 ✔️ Google Calendar Integration (Upcoming): Auto-sync schedules with Google Calendar.
